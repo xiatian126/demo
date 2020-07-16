@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c311c98a-1fa9-4f69-a7b8-5e6156fb1e3a" name="Default Changelist" comment="" />
+    <list default="true" id="c311c98a-1fa9-4f69-a7b8-5e6156fb1e3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.2020-07-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.2020-07-16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/info.2020-07-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info.2020-07-16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1elIzAPD7dNPpkV0TYYllGh2a6p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -78,11 +84,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594890012680</updated>
-      <workItem from="1594890014955" duration="3998000" />
+      <workItem from="1594890014955" duration="4700000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

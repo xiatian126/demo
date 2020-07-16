@@ -55,3 +55,94 @@ Stopping service [Tomcat]
 
 
 Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting DemoApplication on Lenovo with PID 36408 (C:\Users\jiexia\Desktop\demo\target\classes started by ���� in C:\Users\jiexia\Desktop\demo)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2606 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+Shutting down ExecutorService 'applicationTaskExecutor'
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting DemoApplication on Lenovo with PID 34460 (C:\Users\jiexia\Desktop\demo\target\classes started by 解夏 in C:\Users\jiexia\Desktop\demo)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2339 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+Shutting down ExecutorService 'applicationTaskExecutor'
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting DemoApplication on Lenovo with PID 30536 (C:\Users\jiexia\Desktop\demo\target\classes started by 解夏 in C:\Users\jiexia\Desktop\demo)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2327 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+Shutting down ExecutorService 'applicationTaskExecutor'
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting DemoApplication on Lenovo with PID 5264 (C:\Users\jiexia\Desktop\demo\target\classes started by 解夏 in C:\Users\jiexia\Desktop\demo)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2050 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started DemoApplication in 4.272 seconds (JVM running for 5.795)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on Lenovo with PID 31892 (C:\Users\jiexia\Desktop\demo\target\classes started by 解夏 in C:\Users\jiexia\Desktop\demo)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.36]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2148 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started DemoApplication in 4.456 seconds (JVM running for 5.964)
+Shutting down ExecutorService 'applicationTaskExecutor'
